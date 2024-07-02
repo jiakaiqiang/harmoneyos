@@ -1,0 +1,13 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/todoList",
+    "pages/Cascade",
+    "pages/swiper",
+    "pages/myButton",
+    "pages/customStyle",
+    "pages/componentsChat",
+    "pages/map"
+
+  ]
+}
